@@ -35,3 +35,8 @@ Check if the SOCKS5 Proxy port matches with the one stated in the TOR Browser Se
 
 
 
+To run it locally:
+
+* `git clone https://github.com/amanaryan/bulk_onion_link_classifier.git`
+* `cd bulk_onion_link_classifier`
+* `python onion_classifier.py`
